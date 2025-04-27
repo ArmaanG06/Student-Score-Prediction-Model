@@ -62,7 +62,9 @@ The target variable is the student's **exam score** (continuous numerical value)
 
 # Model evaluation
 Model	                  MAE  	RMSE	R² Score
+
 Linear Regression	      4.18	5.15	0.90
+
 Random Forest Regressor	4.99	6.26	0.85
 
 Linear Regression slightly outperformed the Random Forest Regressor on this datase
